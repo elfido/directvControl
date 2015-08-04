@@ -1,0 +1,19 @@
+{
+  "name": "stbComm",
+  "version": "0.1.0",
+  "description": "STB Comm Test",
+  "main": "stb.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "stb",
+    "test"
+  ],
+  "author": "Fido",
+  "license": "ISC",
+  "dependencies": {
+    "underscore": "~1.8.3",
+    "node-rest-client": "~1.5.1"
+  }
+}
